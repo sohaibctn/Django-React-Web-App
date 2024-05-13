@@ -5,7 +5,6 @@ endpoints:
     port: 8000
     type: REST
     networkVisibility: Public
-    https://localhost:8000/
     context: /
 
 
